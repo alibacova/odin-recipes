@@ -1,0 +1,50 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #663300;
+    background-color: #ffffcc;
+}
+
+h2, h3, p, ol, ul {
+    color: #a04020;
+    text-align: start;
+}
+
+p, ol, ul {
+    color: #252525
+}
+
+.recipe-link {
+    color: #0066cc;
+    font-size: 20px;
+    text-align: center;
+    font-weight:700;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom:0;
+}
+
+.steps {
+    background-color: rgba(165, 225, 54, 0.269);
+}
+
+.ingredients {
+    background-color: rgba(225, 218, 24, 0.404);
+}
+
+ul, ol {
+    margin: 0;
+}
+
+.index {
+    width: 650px;
+    height: auto;
+}
